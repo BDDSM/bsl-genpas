@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://arkuznetsov.github.io/bsl-genpas",
+  "buildOrder" : 6,
+  "buildName" : "GitHub Actions Run #372752799",
+  "buildUrl" : "https://github.com/arkuznetsov/bsl-genpas/actions/runs/372752799",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://arkuznetsov.github.io/bsl-genpas/6/"
+} ]

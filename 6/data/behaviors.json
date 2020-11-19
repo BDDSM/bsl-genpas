@@ -1,0 +1,78 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "ОбщиеМодуль.ГенерацияПаролей",
+      "children" : [ {
+        "name" : "Тест_НовыйПароль",
+        "uid" : "426d60d6d99fb6bf",
+        "parentUid" : "428c576be920a1f0f2ecd7607ab37d66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605805878521,
+          "stop" : 1605805878535,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры",
+        "uid" : "77d45251d068f117",
+        "parentUid" : "428c576be920a1f0f2ecd7607ab37d66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605805878588,
+          "stop" : 1605805878590,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Тест_ШаблонПараметровГенерации",
+        "uid" : "b0f0e380bc8c21ae",
+        "parentUid" : "428c576be920a1f0f2ecd7607ab37d66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605805878630,
+          "stop" : 1605805878632,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Тест_НовыйПароль_ВсеСимволыИзАлфавита",
+        "uid" : "250d75deb1d9a71c",
+        "parentUid" : "428c576be920a1f0f2ecd7607ab37d66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605805878684,
+          "stop" : 1605805878686,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Тест_НовыйПароль_ВерхнийИНижнийРегистр",
+        "uid" : "1ec9e5895a1cf1ee",
+        "parentUid" : "428c576be920a1f0f2ecd7607ab37d66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605805878737,
+          "stop" : 1605805878738,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "428c576be920a1f0f2ecd7607ab37d66"
+    } ],
+    "uid" : "a896c1caa16d1d74faaf240faf398b82"
+  } ],
+  "name" : "behaviors"
+}

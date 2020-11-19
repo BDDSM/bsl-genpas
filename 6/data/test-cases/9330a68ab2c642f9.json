@@ -1,0 +1,46 @@
+{
+  "uid" : "9330a68ab2c642f9",
+  "name" : "Тест_ШаблонПараметровГенерации",
+  "fullName" : "",
+  "historyId" : "tests.ОбщиеМодуль.ГенерацияПаролей.Тест_ШаблонПараметровГенерации",
+  "time" : {
+    "start" : 1605805878630,
+    "stop" : 1605805878632,
+    "duration" : 2
+  },
+  "description" : "Тест_ШаблонПараметровГенерации",
+  "descriptionHtml" : "<p>Тест_ШаблонПараметровГенерации</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "ОбщиеМодуль.ГенерацияПаролей"
+  }, {
+    "name" : "feature",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "C:\\ghar\\_work\\bsl-genpas\\bsl-genpas\\tests\\xunit\\ОбщийМодуль_ГенерацияПаролей.epf"
+  }, {
+    "name" : "host",
+    "value" : "tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9330a68ab2c642f9.json",
+  "parameterValues" : [ ]
+}
