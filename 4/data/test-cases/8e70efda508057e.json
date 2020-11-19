@@ -1,0 +1,57 @@
+{
+  "uid" : "8e70efda508057e",
+  "name" : "Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры",
+  "fullName" : "",
+  "historyId" : "tests.ОбщиеМодуль.ГенерацияПаролей.Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры",
+  "time" : {
+    "start" : 1605805337596,
+    "stop" : 1605805337596,
+    "duration" : 0
+  },
+  "description" : "Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры",
+  "descriptionHtml" : "<p>Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "ОбщиеМодуль.ГенерацияПаролей"
+  }, {
+    "name" : "feature",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "C:\\ghar\\_work\\bsl-genpas\\bsl-genpas\\tests\\xunit\\ОбщийМодуль_ГенерацияПаролей.epf"
+  }, {
+    "name" : "host",
+    "value" : "tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "109e869ab49d9f82",
+      "status" : "passed",
+      "statusDetails" : "",
+      "time" : {
+        "start" : 1605805337596,
+        "stop" : 1605805337596,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e70efda508057e.json",
+  "parameterValues" : [ ]
+}

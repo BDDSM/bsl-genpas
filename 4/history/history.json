@@ -1,0 +1,107 @@
+{
+  "tests.ОбщиеМодуль.ГенерацияПаролей.Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8e70efda508057e",
+      "reportUrl" : "https://arkuznetsov.github.io/bsl-genpas/4//#testresult/8e70efda508057e",
+      "status" : "passed",
+      "statusDetails" : "",
+      "time" : {
+        "start" : 1605805337596,
+        "stop" : 1605805337596,
+        "duration" : 0
+      }
+    } ]
+  },
+  "tests.ОбщиеМодуль.ГенерацияПаролей.Тест_НовыйПароль_ВсеСимволыИзАлфавита" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "768fefb8cc9cf921",
+      "reportUrl" : "https://arkuznetsov.github.io/bsl-genpas/4//#testresult/768fefb8cc9cf921",
+      "status" : "passed",
+      "statusDetails" : "",
+      "time" : {
+        "start" : 1605805337655,
+        "stop" : 1605805337656,
+        "duration" : 1
+      }
+    } ]
+  },
+  "tests.ОбщиеМодуль.ГенерацияПаролей.Тест_НовыйПароль_ВерхнийИНижнийРегистр" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d54cd4fae0ceea0",
+      "reportUrl" : "https://arkuznetsov.github.io/bsl-genpas/4//#testresult/2d54cd4fae0ceea0",
+      "status" : "passed",
+      "statusDetails" : "",
+      "time" : {
+        "start" : 1605805337697,
+        "stop" : 1605805337699,
+        "duration" : 2
+      }
+    } ]
+  },
+  "tests.ОбщиеМодуль.ГенерацияПаролей.Тест_НовыйПароль" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86bb13a7a813f939",
+      "reportUrl" : "https://arkuznetsov.github.io/bsl-genpas/4//#testresult/86bb13a7a813f939",
+      "status" : "passed",
+      "statusDetails" : "",
+      "time" : {
+        "start" : 1605805337625,
+        "stop" : 1605805337625,
+        "duration" : 0
+      }
+    } ]
+  },
+  "tests.ОбщиеМодуль.ГенерацияПаролей.Тест_ШаблонПараметровГенерации" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dad4a6832b63124b",
+      "reportUrl" : "https://arkuznetsov.github.io/bsl-genpas/4//#testresult/dad4a6832b63124b",
+      "status" : "passed",
+      "statusDetails" : "",
+      "time" : {
+        "start" : 1605805337553,
+        "stop" : 1605805337561,
+        "duration" : 8
+      }
+    } ]
+  }
+}

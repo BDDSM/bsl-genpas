@@ -1,0 +1,139 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "Тест_НовыйПароль_ВерхнийИНижнийРегистр",
+      "uid" : "2d54cd4fae0ceea0",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337697,
+        "stop" : 1605805337699,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_ШаблонПараметровГенерации",
+      "uid" : "dad4a6832b63124b",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337553,
+        "stop" : 1605805337561,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры",
+      "uid" : "8e70efda508057e",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337596,
+        "stop" : 1605805337596,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль_ВсеСимволыИзАлфавита",
+      "uid" : "768fefb8cc9cf921",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337655,
+        "stop" : 1605805337656,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль",
+      "uid" : "86bb13a7a813f939",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337625,
+        "stop" : 1605805337625,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль_ВерхнийИНижнийРегистр",
+      "uid" : "9c6c9b27e843120e",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337697,
+        "stop" : 1605805337699,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль_ВсеСимволыИзАлфавита",
+      "uid" : "2c4b5ecd6a626c44",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337655,
+        "stop" : 1605805337656,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры",
+      "uid" : "109e869ab49d9f82",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337596,
+        "stop" : 1605805337596,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_ШаблонПараметровГенерации",
+      "uid" : "f8956f433f9cc0ab",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337553,
+        "stop" : 1605805337561,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль",
+      "uid" : "e6ab4e2bd4a3e0c8",
+      "parentUid" : "4b7ee04e86f56b6689fc9303e2acc476",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337625,
+        "stop" : 1605805337625,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4b7ee04e86f56b6689fc9303e2acc476"
+  } ],
+  "name" : "timeline"
+}

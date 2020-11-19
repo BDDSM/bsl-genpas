@@ -1,0 +1,74 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "C:\\ghar\\_work\\bsl-genpas\\bsl-genpas\\tests\\xunit\\ОбщийМодуль_ГенерацияПаролей.epf",
+    "children" : [ {
+      "name" : "Тест_ШаблонПараметровГенерации",
+      "uid" : "dad4a6832b63124b",
+      "parentUid" : "1c482e26ba67ba4b76d458fa5a3982e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337553,
+        "stop" : 1605805337561,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры",
+      "uid" : "8e70efda508057e",
+      "parentUid" : "1c482e26ba67ba4b76d458fa5a3982e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337596,
+        "stop" : 1605805337596,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль",
+      "uid" : "86bb13a7a813f939",
+      "parentUid" : "1c482e26ba67ba4b76d458fa5a3982e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337625,
+        "stop" : 1605805337625,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль_ВсеСимволыИзАлфавита",
+      "uid" : "768fefb8cc9cf921",
+      "parentUid" : "1c482e26ba67ba4b76d458fa5a3982e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337655,
+        "stop" : 1605805337656,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Тест_НовыйПароль_ВерхнийИНижнийРегистр",
+      "uid" : "2d54cd4fae0ceea0",
+      "parentUid" : "1c482e26ba67ba4b76d458fa5a3982e8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605805337697,
+        "stop" : 1605805337699,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "C:\\ghar\\_work\\bsl-genpas\\bsl-genpas\\tests\\xunit\\ОбщийМодуль_ГенерацияПаролей.epf"
+  } ],
+  "name" : "packages"
+}
