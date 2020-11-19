@@ -1,0 +1,51 @@
+[ {
+  "uid" : "3a8e6ba7b5501578",
+  "name" : "Тест_НовыйПароль_ВсеСимволыИзАлфавита",
+  "time" : {
+    "start" : 1605805759767,
+    "stop" : 1605805759768,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3d55b40aa17d579",
+  "name" : "Тест_ШаблонПараметровГенерации",
+  "time" : {
+    "start" : 1605805759848,
+    "stop" : 1605805759850,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6895ee4b593fa62",
+  "name" : "Тест_НовыйПароль_ВерхнийИНижнийРегистр",
+  "time" : {
+    "start" : 1605805759731,
+    "stop" : 1605805759741,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c26a71920f649f57",
+  "name" : "Тест_НовыйПароль_ВерхнийНижнийРегистрИЦифры",
+  "time" : {
+    "start" : 1605805759792,
+    "stop" : 1605805759793,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ab2fc591cd4196cb",
+  "name" : "Тест_НовыйПароль",
+  "time" : {
+    "start" : 1605805759821,
+    "stop" : 1605805759823,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,78 @@
+{
+  "uid" : "ab2fc591cd4196cb",
+  "name" : "Тест_НовыйПароль",
+  "fullName" : "",
+  "historyId" : "tests.ОбщиеМодуль.ГенерацияПаролей.Тест_НовыйПароль",
+  "time" : {
+    "start" : 1605805759821,
+    "stop" : 1605805759823,
+    "duration" : 2
+  },
+  "description" : "Тест_НовыйПароль",
+  "descriptionHtml" : "<p>Тест_НовыйПароль</p>\n",
+  "status" : "passed",
+  "statusMessage" : "",
+  "statusTrace" : "",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "ОбщиеМодуль.ГенерацияПаролей"
+  }, {
+    "name" : "feature",
+    "value" : "tests"
+  }, {
+    "name" : "package",
+    "value" : "C:\\ghar\\_work\\bsl-genpas\\bsl-genpas\\tests\\xunit\\ОбщийМодуль_ГенерацияПаролей.epf"
+  }, {
+    "name" : "host",
+    "value" : "tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "403b9c6fd3593c1c",
+      "status" : "passed",
+      "statusDetails" : "",
+      "time" : {
+        "start" : 1605805759821,
+        "stop" : 1605805759823,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "86bb13a7a813f939",
+        "reportUrl" : "https://arkuznetsov.github.io/bsl-genpas/4//#testresult/86bb13a7a813f939",
+        "status" : "passed",
+        "statusDetails" : "",
+        "time" : {
+          "start" : 1605805337625,
+          "stop" : 1605805337625,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ab2fc591cd4196cb.json",
+  "parameterValues" : [ ]
+}
